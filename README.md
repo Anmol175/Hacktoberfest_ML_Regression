@@ -1,8 +1,10 @@
-# POLYNOMIAL REGRESSION
+
 <img src="https://developers.google.com/community/dsc/images/dsc_lockup.png" height="100px">
+# HACKTOBERFEST
+# REGRESSION 
 
 **SOURCE CODE ( GOOLGE COLAB )** 
- - *https://colab.research.google.com/drive/1lwY-Y4K7jAKbPFivsp5wrVZz-BTF3Udr?usp=sharing*
+ - *https://colab.research.google.com/drive/1g2aid5hOIiArOxLW3pJjoue9wmPt9zLS#scrollTo=YvGPUQaHhXfL*
  - Provided as Hactoberfest_DSC_JIIT128_Regression.ipynb in the root directory.
 
 **TASK**
